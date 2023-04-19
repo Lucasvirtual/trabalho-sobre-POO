@@ -1,29 +1,39 @@
 # trabalho-sobre-POO
 Contexto:
+
 A empresa Kratos Store realiza a venda uma variedade de produtos que são
 distribuídos em 3 categorias:
+
 ➔ Tecnologia - Notebooks, mouses, teclados, dispositivos de armazenamento de
 dados, PCs, entre outros.
+
 ➔ Acessórios - Canecas, garrafas, chaveiros, porta-copos, entre outros.
+
 ➔ Papelaria - Papel, caneta, lápis, pilotos de quadro, entre outros.
+
 O valor da venda de cada produto é calculado a partir do custo de compra do
 produto acrescido de uma porcentagem do valor do custo, que representa o lucro esperado
 pelo produto daquela categoria. Exemplos:
+
 Notebook ASUS M515DA
 Custo: R$ 2000,00
 Porcentagem de lucro da categoria Tecnologia: 25%
 Valor da venda: R$ 2500,00
+
 Caneca Estampa Floral
 Custo: R$ 10,00
 Porcentagem de lucro da categoria Acessórios : 20%
 Valor da venda: R$ 12,00
+
 Caneta BIC azul
 Custo: R$ 1,00
 Porcentagem de lucro da categoria Papelaria : 18%
 Valor da venda: R$ 1,18
+
 Você foi chamado para criar um programa capaz registrar a entrada de produtos em
 estoque e orientar os funcionários sobre os preços destes produtos. Siga as orientações a
 seguir para a elaboração do programa.
+
 Orientações iniciais
 
 ● Você precisará criar uma Classe chamada Categoria.
